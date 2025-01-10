@@ -7,5 +7,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ### Login Credentials
 
 Live Demo: https://nextauth-dashboard.vercel.app/login
-Email: user@nextmail.com
-Password: 123456
+
+- Email: user@nextmail.com
+
+- Password: 123456
